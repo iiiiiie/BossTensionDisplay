@@ -1,0 +1,8 @@
+/dist/
+*.sav
+*.dmp
+*.log
+FORK_REPORT.md
+SANITIZATION_REPORT.md
+__MISTAKE_*
+__DEPRECATED_*
